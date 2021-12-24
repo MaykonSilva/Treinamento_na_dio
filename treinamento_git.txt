@@ -1,0 +1,1 @@
+arqiovo criado no GIT BASH usando a seguinte linha \n echo > descricao
